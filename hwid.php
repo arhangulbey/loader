@@ -1,1 +1,1 @@
-username=arhangulbey password=ardaarda11
+arhangulbey ardaarda11
